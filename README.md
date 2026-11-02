@@ -1,6 +1,8 @@
-#Learning Web Development Without AI
+# Learning Web Development Without AI
 
 **AI helps you learn fast, It pushes you into the illusion of learning, faster.**
+
+I am in no way against AI, I am so excited with what the open weight models provide for the entire community but I cant help but notice how I kept running to AI at the first sign of inconvenience. 
 
 I have created this repo today to track and share my progress of learning to build apps and stress testing it without the help of AI.
 
@@ -14,4 +16,4 @@ I am going to start by building basic apps without even frontend and work on how
 
 Basically I will be putting theory into practice, I am tired of just grinding theory and DSA. I genuinely crave to build stuff.
 
-Follow outline.md for how I am going to structure the journey/ 
+Follow outline.md for how I am going to structure the journey
